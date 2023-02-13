@@ -203,5 +203,4 @@ def predict_water_potability(potability_parameters):
         'Potability Probability': float(prediction),
         'Is Potable?': 'Potable' if potability else 'Not Potable'}
     return pd.DataFrame(result, index=[0])
-
         """)
