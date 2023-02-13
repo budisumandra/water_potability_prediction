@@ -4,5 +4,5 @@ seaborn
 scikit-learn
 numpy
 plotly
-streamlit
-pickle == 4.0
+streamlit==1.17.0
+pickle==4.0
